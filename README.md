@@ -166,6 +166,20 @@ App Open → Login → Home Screen → Initiate Payment → Enter Details → Pa
 
 **Theme:** Dark UI (`#0F1117` background) with purple-blue (`#6C63FF`) and teal (`#00D4AA`) accents — designed to reflect real fintech product aesthetics.
 
+## 🖼️ Dashboard Preview
+
+### Page 1 — Funnel Overview
+![Funnel Overview](page1_funnel_overview.png)
+
+### Page 2 — User Segment Analysis
+![Segment Analysis](page2_segment_analysis.png)
+
+### Page 3 — Payment Behavior
+![Payment Behavior](page3_payment_behavior.png)
+
+### Page 4 — City & Geo Performance
+![City Geo Performance](page4_city_geo.png)
+
 ---
 
 ## 💡 Business Recommendations
